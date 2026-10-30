@@ -1,0 +1,53 @@
+Análisis de los registros clínicos – Hospital San Gabriel
+
+1. Interpretación de los indicadores
+
+La base de datos contiene 20 registros simulados de pacientes. A partir de su organización y análisis en Excel, se obtuvieron los siguientes resultados:
+
+Indicador 1. Total de pacientes
+
+Se identificaron 20 registros, lo que permite realizar un análisis general de la información clínica incluida en la base de datos.
+
+Indicador 2. Edad promedio
+
+La edad promedio es de 43 años. Este resultado representa la edad media de los pacientes registrados y permite conocer las características generales de la población analizada.
+
+Indicador 3. Temperatura promedio
+
+La temperatura promedio fue de 37,145 °C. Este valor permite describir el comportamiento general de la temperatura en los registros, aunque cada resultado debe interpretarse teniendo en cuenta las condiciones individuales de cada paciente.
+
+Indicador 4. Distribución por sexo
+
+Se registraron 10 mujeres y 10 hombres, equivalentes al 50 % cada uno. Esto demuestra una distribución equilibrada entre ambos grupos.
+
+Indicador 5. Estado de atención
+
+De los 20 pacientes, 9 tienen la atención finalizada (45 %), 7 se encuentran en atención (35 %) y 4 están pendientes (20 %). Estos datos permiten identificar cómo se distribuyen los procesos de atención registrados.
+
+Indicador 6. Saturación mínima de oxígeno
+
+La saturación mínima registrada fue del 91 %, correspondiente al paciente P009. Este resultado representa una posible alerta clínica y requiere valoración según el contexto del paciente.
+
+Indicador 7. Datos faltantes de saturación
+
+Se identificó un registro sin información de saturación de oxígeno, correspondiente al paciente P016. La ausencia de este dato limita la interpretación completa de su condición y evidencia la importancia de mantener registros completos.
+
+2. Inconsistencias identificadas
+
+Durante la revisión de la base de datos se encontraron las siguientes situaciones:
+
+Dato faltante: el paciente P016 no tiene registrada la saturación de oxígeno.
+
+Posible alerta clínica: el paciente P009 presenta una saturación de oxígeno del 91 % y una frecuencia cardíaca de 110 lpm, junto con dificultad respiratoria.
+
+Motivo de consulta que requiere atención: el paciente P012 presenta dolor de pecho, por lo que necesita valoración clínica oportuna.
+
+Estas situaciones deben tenerse en cuenta al interpretar los resultados. Los datos identificados son orientativos y no constituyen diagnósticos médicos.
+
+3. Reflexión sobre la privacidad clínica
+
+La privacidad clínica es fundamental para proteger la información personal de los pacientes y garantizar una atención basada en el respeto y la confidencialidad. Los datos relacionados con la salud deben manejarse de manera responsable, evitando su divulgación sin autorización y limitando el acceso únicamente a las personas que los necesitan para cumplir sus funciones. Asimismo, es importante utilizar mecanismos de seguridad, como contraseñas y permisos de acceso, para prevenir la pérdida o exposición de la información. En el ámbito académico, trabajar con datos ficticios o anonimizados permite desarrollar ejercicios de análisis sin comprometer la identidad de personas reales. Como futuros profesionales de la salud, debemos comprender que proteger la información clínica también hace parte de nuestra responsabilidad ética.
+
+4. Conclusión
+
+El análisis permitió interpretar los indicadores generales de los 20 registros, reconocer posibles alertas clínicas e identificar información faltante. Además, evidenció la importancia de la calidad de los datos y de la protección de la privacidad en el manejo de información clínica.
