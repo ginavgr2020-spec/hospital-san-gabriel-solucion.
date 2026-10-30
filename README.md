@@ -210,26 +210,20 @@ Para mejorar la calidad de la información, se recomienda:
 | Saturación de oxígeno mínima registrada | 91 % |
 | Registros sin saturación de oxígeno | 1 (P016) |
 
-## 6. Conclusiones
+6. Conclusiones
 
-### 6.1. Utilidad del análisis de datos
+6.1. Análisis de datos
 
-El uso de Excel permitió organizar los registros clínicos simulados y obtener indicadores estadísticos de forma sistemática. Las funciones empleadas facilitaron el cálculo de promedios, la clasificación de pacientes según su estado de atención y la identificación de valores mínimos.
+Excel permitió organizar los 20 registros y obtener indicadores para interpretar la información clínica.
 
-### 6.2. Identificación de alertas clínicas
+6.2. Alertas clínicas
 
-El análisis permitió reconocer registros que contienen hallazgos relevantes, como la dificultad respiratoria acompañada de una saturación de oxígeno del 91 % en el paciente P009 y el dolor torácico registrado en el paciente P012.
+Los casos P009 y P012 presentaron datos que requieren especial atención y valoración médica.
 
-Estos ejemplos muestran cómo la organización de datos puede contribuir a identificar situaciones que requieren valoración clínica prioritaria. Sin embargo, las decisiones asistenciales deben basarse en una evaluación integral del paciente y en los protocolos establecidos.
+6.3. Calidad de la información
 
-### 6.3. Importancia de la calidad del dato
+El dato faltante de saturación de oxígeno del paciente P016 evidencia la importancia de registrar y verificar toda la información.
 
-La identificación de una saturación de oxígeno faltante en el registro P016 evidencia la necesidad de mantener bases de datos completas, consistentes y verificables.
+6.4. Gestión de la atención
 
-La implementación de controles de validación y procedimientos de revisión puede reducir los errores de registro y mejorar la confiabilidad de los análisis.
-
-### 6.4. Gestión del flujo de atención
-
-La clasificación de los registros en estados finalizados, en atención y pendientes permite describir la distribución de los casos y reconocer cuáles requieren seguimiento administrativo o asistencial.
-
-En conclusión, esta práctica permitió aplicar herramientas de análisis de datos al contexto sanitario y comprender su utilidad para organizar información, reconocer posibles
+La clasificación de los estados de atención facilita el seguimiento de los pacientes y la identificación de casos pendientes.
