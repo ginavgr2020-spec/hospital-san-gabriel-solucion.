@@ -210,20 +210,29 @@ Para mejorar la calidad de la información, se recomienda:
 | Saturación de oxígeno mínima registrada | 91 % |
 | Registros sin saturación de oxígeno | 1 (P016) |
 
-6. Conclusiones
+## 6. Conclusiones
 
-6.1. Análisis de datos
+## 6.1. Análisis de datos
 
 Excel permitió organizar los 20 registros y obtener indicadores para interpretar la información clínica.
 
-6.2. Alertas clínicas
+## 6.2. Alertas clínicas
 
 Los casos P009 y P012 presentaron datos que requieren especial atención y valoración médica.
 
-6.3. Calidad de la información
+## 6.3. Calidad de la información
 
 El dato faltante de saturación de oxígeno del paciente P016 evidencia la importancia de registrar y verificar toda la información.
 
-6.4. Gestión de la atención
+## 6.4. Gestión de la atención
 
 La clasificación de los estados de atención facilita el seguimiento de los pacientes y la identificación de casos pendientes.
+## 7. Herramientas utilizadas
+- Microsoft Excel: organización de los datos y aplicación de fórmulas estadísticas.
+- Funciones estadísticas: CONTARA, PROMEDIO, CONTAR.SI, MIN y CONTAR.BLANCO.
+- Base de datos clínica simulada: conjunto de 20 registros utilizado con fines académicos.
+- Markdown: estructuración y presentación del informe en el archivo README.
+## 8. Consideraciones finales
+Este proyecto tiene fines exclusivamente educativos. Los datos analizados son simulados y no deben utilizarse para tomar decisiones clínicas reales.
+
+Los resultados dependen de la calidad, integridad y exactitud de los registros incluidos en el conjunto de datos.
