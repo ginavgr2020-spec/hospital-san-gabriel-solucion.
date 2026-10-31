@@ -48,6 +48,7 @@ Los criterios anteriores describen la revisión realizada sobre la estructura de
 - **`Base_Datos_Hospital.xlsx`**: archivo de Excel con la base de registros clínicos simulados, los indicadores y elementos de resumen.
 - **`analisis.md`**: documento con la interpretación de los siete indicadores, las inconsistencias identificadas, la reflexión sobre privacidad clínica y una conclusión.
 - **`README.md`**: este documento, que presenta el objetivo, el diccionario de datos, el proceso de revisión y limpieza, los archivos entregados y la declaración sobre el origen de los datos.
+- **`Base_Datos_Hospital.csv`**: versión en formato CSV de la base de registros clínicos simulados.
 
 ## 5. Declaración de datos ficticios
 
